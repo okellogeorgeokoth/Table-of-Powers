@@ -1,0 +1,12 @@
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\bin\Debug\Table of  Powers.exe.config
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\bin\Debug\Table of  Powers.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\bin\Debug\Table of  Powers.pdb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\bin\Debug\Table of  Powers.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.vbprojAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table_of__Powers.Form1.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table_of__Powers.Resources.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.vbproj.GenerateResource.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.vbproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Table of  Powers\obj\Debug\Table of  Powers.pdb
